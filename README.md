@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Anusha
-- 👀 I’m interested in Internet of Things
-- 🌱 I’m currently learning AWS IoT and Node-Red 
 - 📫 reach me at anushabhowmick@ymail.com
 
 
